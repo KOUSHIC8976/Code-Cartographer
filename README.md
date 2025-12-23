@@ -28,3 +28,4 @@ Graph Visualization: Renders high-DPI directed graphs using Graphviz.
 Create a “.env” file in root folder with your key: “GEMINI_API_KEY”= “... ”
 
 Bash: python main.py  “Folder Directory path” --provider gemini
+(Replace gemini with openai or local)
